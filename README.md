@@ -1,6 +1,8 @@
 # analyseMRI_v6
 analyseMRI is free and easy to use MRI T1-weighted scan analysis software for analyzing the Hippocampus, Amygdala and Cerebral Cortex for their volume (in cubic mm) and voxel intensity parameters. The software yields both absolute values and relative (to the Cerebral White Matter) values for these parameters.
+
 ADDITION IN VERSION 6: CEREBRAL CORTEX ANALYSIS
+
 This version also provides results of the comparison of the analyzed scan to an established healthy control baseline.
 
 The main intended usage for this software is to aid neurological health professionals in objectively diagnosing and researching Hippocampus, Amygdala and Cerebral Cortex related deficits and illnesses.
