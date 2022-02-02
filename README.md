@@ -8,7 +8,7 @@ This version also provides results of the comparison of the analyzed scan to an 
 The main intended usage for this software is to aid neurological health professionals in objectively diagnosing and researching Hippocampus, Amygdala and Cerebral Cortex related deficits and illnesses.
 
 This software can be used for 1 mm isotropic (1x1x1 mm) voxel resolution T1-weighted scans.
-Before installing (analyseMRIv5_installer.exe) please read the user manual, this will clarify the required preprocessing for the usable input data type (.nii).
+Before installing (analyseMRIv6_installer.exe) please read the user manual, this will clarify the required preprocessing for the usable input data type (.nii).
 
 Please cite the developer (F.I. Kandi) and software when publishing or writing, having used this software for said publishing or writing. 
 For questions, feedback and ideas for improvement please email the developer at analysemri@gmail.com
